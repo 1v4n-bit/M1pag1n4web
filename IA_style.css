@@ -1,0 +1,40 @@
+div.robotImage{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    left: 8em;
+    bottom: 30em;
+}
+
+div.brainIAimage{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    right: 8em;
+    bottom: 30em;
+}
+
+body{
+    background-color: rgb(170, 214, 243);
+    font-family: sans-serif;
+}
+
+ul.listaEnlace{
+    list-style: none;
+    padding: 1em;
+    margin: 0;
+    position: absolute;
+    left: 43em;
+    border-top: 0.5em solid rgb(20, 84, 109);
+    border-right: 0.5em solid rgb(20, 84, 109);
+    border-left: 0.5em solid rgb(20, 84, 109);
+    border-bottom: 0.5em solid rgb(20, 84, 109);
+}
+
+h1{
+    color: rgb(17, 81, 124);
+}
+
+h2{
+    color: rgb(41, 132, 192);
+}
